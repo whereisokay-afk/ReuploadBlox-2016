@@ -12,8 +12,7 @@
         }
         
         body {
-            /* Classic 2016 Roblox website background color */
-            background-color: #E3E3E3;
+            background-color: #000000;
             min-height: 100vh;
             display: flex;
             justify-content: center;
@@ -33,7 +32,6 @@
             width: auto;
             display: block;
             margin: 0 auto;
-            /* Keep the image sharp / no stretch distortion */
             object-fit: contain;
         }
     </style>
@@ -41,7 +39,7 @@
 <body>
     <div class="coming-soon-container">
         <img 
-            src="https://cdn.discordapp.com/attachments/1531822005785985026/1531839966630645960/image.png?ex=6a831064&is=6a81bee4&hm=c36e9eddd2abba3361039ccaadba9fdaec7ffd9bf62b95463feddc53ffe0bccf&" 
+            src="https://cdn.discordapp.com/attachments/1531735672723869887/1538719859704336394/image-removebg-preview.png?ex=6a83b40a&is=6a82628a&hm=e39fc8f2398ac42e253c1fef2094e743b43af11ebd2627a105599e4fad74dd88&" 
             alt="Coming Soon" 
             class="coming-soon-image"
         >
